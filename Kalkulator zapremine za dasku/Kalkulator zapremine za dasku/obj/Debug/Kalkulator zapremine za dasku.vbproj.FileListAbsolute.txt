@@ -1,0 +1,15 @@
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\bin\Debug\Kalkulator zapremine za dasku.exe.config
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\bin\Debug\Kalkulator zapremine za dasku.exe
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\bin\Debug\Kalkulator zapremine za dasku.pdb
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\bin\Debug\Kalkulator zapremine za dasku.xml
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\obj\Debug\Kalkulator_zapremine_za_dasku.Form1.resources
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\obj\Debug\Kalkulator_zapremine_za_dasku.Resources.resources
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\obj\Debug\Kalkulator zapremine za dasku.vbproj.GenerateResource.Cache
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\obj\Debug\Kalkulator zapremine za dasku.exe
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\obj\Debug\Kalkulator zapremine za dasku.xml
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\obj\Debug\Kalkulator zapremine za dasku.pdb
+\\Mac\Home\Desktop\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\obj\Debug\Kalkulator zapremine za dasku.vbprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Projekti\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\bin\Debug\Kalkulator zapremine za dasku.exe.config
+\\Mac\Home\Desktop\Projekti\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\obj\Debug\Kalkulator zapremine za dasku.exe
+\\Mac\Home\Desktop\Projekti\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\obj\Debug\Kalkulator zapremine za dasku.xml
+\\Mac\Home\Desktop\Projekti\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\Kalkulator zapremine za dasku\obj\Debug\Kalkulator zapremine za dasku.pdb
